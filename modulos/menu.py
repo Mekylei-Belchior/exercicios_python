@@ -1,5 +1,5 @@
-from módulos import estilos as e
-from módulos import resumo as r, cadastrar as c, sair as s
+from modulos import estilos as e
+from modulos import resumo as r, cadastrar as c, sair as s
 from utilidades import dado as d
 
 
