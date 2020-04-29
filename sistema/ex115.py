@@ -19,7 +19,7 @@ while True:
         cadastrar(dados[0], dados[1])
 
     elif r == 3:
-        cabecalho(f'{cores("branco")}Programa finalizado. Até logo!{cores("sem")}')
+        cabecalho(f'{cores("branco")}Programa finalizado. Até logo!{cores()}')
         break
 
     else:
